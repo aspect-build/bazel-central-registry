@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/publish-to-bcr-dev/fixture-versioned",
+    "maintainers": [
+        {
+            "name": "Derek Cormier",
+            "email": "derek@aspect.build",
+            "github": "kormide",
+            "github_user_id": 4948761
+        }
+    ],
+    "repository": [
+        "github:publish-to-bcr-dev/fixture-versioned"
+    ],
+    "versions": [
+        "0.0.25"
+    ],
+    "yanked_versions": {}
+}
