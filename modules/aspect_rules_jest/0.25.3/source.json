@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-i+j55tZWlSk02skFZLPt9S9aUw3/870R89cybNhnwVk=",
+    "strip_prefix": "rules_jest-0.25.3",
+    "url": "https://github.com/aspect-build/rules_jest/releases/download/v0.25.3/rules_jest-v0.25.3.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-3PTwu8XKtd9xQhrjkjG3n3FMUCH0llm0gp7iYFzAJXw="
+    },
+    "patch_strip": 1
+}

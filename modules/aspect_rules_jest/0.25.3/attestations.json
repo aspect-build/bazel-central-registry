@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/aspect-build/rules_jest/releases/download/v0.25.3/source.json.intoto.jsonl",
+            "integrity": "sha256-uk6emv4K18s/vfRzYvqqbQ7vGsiscExtkMqynmYLGxA="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/aspect-build/rules_jest/releases/download/v0.25.3/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-xrtNm0rSneml4gb9tDjir5kFTFYSHR+Nt8KOc250djI="
+        },
+        "rules_jest-v0.25.3.tar.gz": {
+            "url": "https://github.com/aspect-build/rules_jest/releases/download/v0.25.3/rules_jest-v0.25.3.tar.gz.intoto.jsonl",
+            "integrity": "sha256-tcmxPHgPDiUV+a3o78flA4RllMayAacBdNYaYioYuOI="
+        }
+    }
+}
