@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/aspect-build/aspect-gazelle/releases/download/prebuilt-v0.0.15/source.json.intoto.jsonl",
+            "integrity": "sha256-c8pFskEvqU7B6xD8hLCsvdWJ8GI0MxPGBf9DeXimP5k="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/aspect-build/aspect-gazelle/releases/download/prebuilt-v0.0.15/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-qwSXajEqDLPiT6DjMOx71AT6uI+x31OMcDmCcB4jc78="
+        },
+        "aspect-gazelle-prebuilt-v0.0.15.tar.gz": {
+            "url": "https://github.com/aspect-build/aspect-gazelle/releases/download/prebuilt-v0.0.15/aspect-gazelle-prebuilt-v0.0.15.tar.gz.intoto.jsonl",
+            "integrity": "sha256-btqbOZqefxkC0LgXKbBj4A90BieuvfUBHzjDOB68p6Q="
+        }
+    }
+}
