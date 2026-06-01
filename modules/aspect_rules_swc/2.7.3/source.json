@@ -1,0 +1,10 @@
+{
+    "integrity": "sha256-TfzhNZgEyCCB4dFqgUDFVyBjM2rHvsnlYf5TB3jiUAE=",
+    "strip_prefix": "rules_swc-2.7.3",
+    "docs_url": "https://github.com/aspect-build/rules_swc/releases/download/v2.7.3/rules_swc-v2.7.3.docs.tar.gz",
+    "url": "https://github.com/aspect-build/rules_swc/releases/download/v2.7.3/rules_swc-v2.7.3.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-CKV55oA1TeLHZsCIpFGJzE5J4EBh8u2LnVmvP1iXweE="
+    },
+    "patch_strip": 1
+}

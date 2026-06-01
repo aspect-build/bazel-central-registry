@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/aspect-build/rules_swc/releases/download/v2.7.3/source.json.intoto.jsonl",
+            "integrity": "sha256-NkU3qsgPCx78bOuDeGlnoYf42JnpOLKzX5/HNPMJ7yU="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/aspect-build/rules_swc/releases/download/v2.7.3/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-/GNrWeQK0xhAHdfPChdE/3IGSTMs3jWObvAf0zfQ/38="
+        },
+        "rules_swc-v2.7.3.tar.gz": {
+            "url": "https://github.com/aspect-build/rules_swc/releases/download/v2.7.3/rules_swc-v2.7.3.tar.gz.intoto.jsonl",
+            "integrity": "sha256-WJi4hBReHS9SGFIsPPTTVf3TvbA9T/pRknQk/0nfqHA="
+        }
+    }
+}
