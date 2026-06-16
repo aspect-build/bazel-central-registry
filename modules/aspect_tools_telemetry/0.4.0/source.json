@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-zg8yuwE1gx0jGSXwXDZtUnifXBZDqVO3bu3BnfRHHYo=",
+    "strip_prefix": "tools_telemetry-0.4.0",
+    "url": "https://github.com/aspect-build/tools_telemetry/releases/download/v0.4.0/tools_telemetry-v0.4.0.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-Qqp4Y83OT5K5H91jQM7BCmL/wVq+2eawgSxNKU4+nA8="
+    },
+    "patch_strip": 1
+}
